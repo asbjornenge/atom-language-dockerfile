@@ -2,7 +2,7 @@
   "name": "language-dockerfile",
   "version": "0.0.0",
   "private": true,
-  "description": "A short description of your package",
+  "description": "Dockerfile language support in Atom",
   "repository": "https://github.com/asbjornenge/atom-language-dockerfile",
   "license": "MIT",
   "engines": {
